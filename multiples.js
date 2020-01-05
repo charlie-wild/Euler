@@ -12,6 +12,4 @@ const findMultiples = (limit) => {
   return total;
 }
 
-console.log(findMultiples(1000));
-
 module.exports = { findMultiples };
