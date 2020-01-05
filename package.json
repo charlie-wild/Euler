@@ -1,0 +1,23 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "This is a repo to store the solutions to the problems presented on ProjectEuler.net.",
+  "main": "multiples.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlie-wild/Euler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlie-wild/Euler/issues"
+  },
+  "homepage": "https://github.com/charlie-wild/Euler#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
