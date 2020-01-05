@@ -1,7 +1,7 @@
 const { expect } = require("chai");
 const { fibonacciSumEquals } = require("../fibonacci")
 
-describe.only('fibonacciSumEquals()', () => {
+describe('fibonacciSumEquals()', () => {
   it('returns 10 when passed 5', () => {
     expect(fibonacciSumEquals(8)).to.equal(10);
   });
