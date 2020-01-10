@@ -4,8 +4,7 @@ const sumSquares = (limit) => {
     let sumSquare = (limit*(limit+1)*((2*limit)+1))/6
 
     let sum = (limit*(1+100))/2;
-   
-    
+      
 
     console.log(sumSquare);
 
